@@ -24,7 +24,7 @@ add terminal
 > python movie_client.py
 
 ## Output
-
+out json response from api themoviedb.org 
 ```JSON
 {
   "dates": {
